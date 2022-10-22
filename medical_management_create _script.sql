@@ -1,6 +1,5 @@
 --  **************************************************************************************
 --  We first check if the database exists, and drop it if it does.
-
 --  Setting the active database to the built in 'master' database ensures that we are not trying to drop the currently active database.
 --  Setting the database to 'single user' mode ensures that any other scripts currently using the database will be disconnectetd.
 --  This allows the database to be deleted, instead of giving a 'database in use' error when trying to delete it.

@@ -1,7 +1,5 @@
 --  **************************************************************************************
-
 USE medical_management;
-
 /*	Query 1 
 
 Most Prescript Medicine query that selects the medicine name, medicine type that are more 
