@@ -1,4 +1,4 @@
-# medical_management_database
+# Medical Management database
 Solution script database for medical management
 
 Created and developed by:
